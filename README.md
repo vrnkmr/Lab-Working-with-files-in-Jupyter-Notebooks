@@ -1,1 +1,1 @@
-# Lab-Working-with-files-in-Jupyter-Notebooks
+# IBM-Labs-in-Jupyter-Notebooks
